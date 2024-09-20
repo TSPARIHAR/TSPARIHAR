@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TSPARIHAR
 - 👀 I’m interested in SDE
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Software development
 - 💞️ I’m looking for intership
 - 📫 How to reach me tanmaysingh.tsp@gmail.com
 
