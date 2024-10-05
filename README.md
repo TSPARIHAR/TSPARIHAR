@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanmay Singh Parihar</h1>
-<h3 align="center">Aspiring Software developer from India</h3>
+<h3 align="center">Software developer</h3>
 
 - 🌱 I’m currently learning **Docker**
 
