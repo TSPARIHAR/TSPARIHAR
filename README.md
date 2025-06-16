@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tanmay Singh Parihar</h1>
 <h3 align="center">Software developer</h3>
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **NEXT.js**
 
 - 👨‍💻 All of my projects are available at [https://tsparihar.github.io/Portfolio/](https://tsparihar.github.io/Portfolio/)
 
-- 💬 Ask me about **Python, Django, React**
+- 💬 Ask me about **Python, DevOps, MERN**
 
 - 📫 How to reach me **tanmaysingh.tsp@gmail.com**
 
